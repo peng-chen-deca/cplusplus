@@ -1,75 +1,75 @@
-# C++ Learning
+# C++ 学习笔记
 
-A personal repository for learning and practicing C++, with a focus on modern C++ and game server development.
+这是一个用于学习和实践 C++ 的个人代码仓库，重点关注现代 C++ 特性以及游戏服务器开发。
 
-## About
+## 关于本项目
 
-This repository documents my C++ learning journey, including language fundamentals, advanced concepts, practical examples, and server-side programming.
+本仓库用于记录我的 C++ 学习过程，包括语言基础、高级特性、实践示例以及服务器端编程相关内容。
 
-The goal is to build a solid understanding of C++ and apply it to real-world game server development.
+学习目标是建立扎实的 C++ 编程基础，并将所学知识应用到实际的游戏服务器开发中。
 
-## Learning Topics
+## 学习内容
 
-### 1. C++ Fundamentals
-- Variables and data types
-- Operators and control flow
-- Functions and references
-- Pointers and memory management
-- Classes and objects
-- Inheritance and polymorphism
+### 1. C++ 基础
+- 变量与数据类型
+- 运算符与流程控制
+- 函数与引用
+- 指针与内存管理
+- 类与对象
+- 继承与多态
 
-### 2. Modern C++
-- C++11/14/17/20 features
-- Smart pointers
-- Move semantics
-- Lambda expressions
-- Templates and generic programming
-- STL containers and algorithms
+### 2. 现代 C++
+- C++11/14/17/20 新特性
+- 智能指针
+- 移动语义
+- Lambda 表达式
+- 模板与泛型编程
+- STL 容器与算法
 
-### 3. Advanced C++
-- Memory management
-- Multithreading and concurrency
-- Synchronization and thread safety
-- Performance optimization
-- Design patterns
+### 3. C++ 进阶
+- 内存管理
+- 多线程与并发编程
+- 同步机制与线程安全
+- 性能优化
+- 设计模式
 
-### 4. Game Server Development
-- TCP/UDP network programming
-- Socket programming
-- Asynchronous I/O
-- Multithreaded server architecture
-- Game server architecture
-- High-performance server development
+### 4. 游戏服务器开发
+- TCP/UDP 网络编程
+- Socket 编程
+- 异步 I/O
+- 多线程服务器架构
+- 游戏服务器架构设计
+- 高性能服务器开发
 
-## Project Structure
+## 项目目录结构
 
 ```text
 cpp-learning/
-├── basics/          # C++ fundamentals
-├── modern-cpp/      # Modern C++ features
-├── data-structures/ # Data structures and algorithms
-├── multithreading/  # Concurrency and threading
-├── networking/      # Network programming
-├── game-server/     # Game server experiments
+├── basics/          # C++ 基础
+├── modern-cpp/      # 现代 C++ 特性
+├── data-structures/ # 数据结构与算法
+├── multithreading/  # 多线程与并发编程
+├── networking/      # 网络编程
+├── game-server/     # 游戏服务器实践
 └── README.md
 ```
 
-## Development Environment
+## 开发环境
 
-- Language: C++
-- Standard: C++17 / C++20
-- Compiler: GCC / Clang
-- Build System: CMake
-- IDE: Visual Studio Code / CLion
+- 编程语言：C++
+- 语言标准：C++17 / C++20
+- 编译器：GCC / Clang
+- 构建工具：CMake
+- 开发工具：Visual Studio Code / CLion
 
-## Learning Goals
+## 学习目标
 
-- Master core C++ concepts and modern language features.
-- Understand memory management and performance optimization.
-- Develop multithreaded and network applications.
-- Explore scalable game server architecture.
-- Build practical C++ server-side projects.
+- 掌握 C++ 核心概念与现代 C++ 特性。
+- 理解内存管理机制与性能优化方法。
+- 具备开发多线程及网络应用程序的能力。
+- 探索可扩展的游戏服务器架构设计。
+- 通过实践完成 C++ 服务器端项目开发。
 
-## License
+## 许可证
 
-This repository is intended for personal learning and educational purposes.
+本仓库主要用于个人学习和教育用途。
